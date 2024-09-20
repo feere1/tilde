@@ -1,37 +1,36 @@
 # Tilde
 
-Inspired by [r/startpages](https://www.reddit.com/r/startpages)&mdash;Tilde is
-the browser homepage for pro web surfers.
+Tilde is a minimal browser homepage for pro web surfers.
 
-## Basic Usage
+## Usage
 
-To go to a site, type the corresponding key and press return. e.g:
+**To go to a site**, type the corresponding key and press <kbd>Enter</kbd>.
 
-- `t` will redirect you to [twitter.com](https://twitter.com/home)
-- `b` will redirect you to [dribbble.com](https://dribbble.com/shots/popular)
+e.g. `g` <kbd>Enter</kbd> will redirect you to
+[github.com](https://github.com)
 
-To access any other site, enter the URL directly. e.g:
+**To search a site**, type a space after the site&rsquo;s key followed by your
+query.
 
-- `example.com` will redirect you to [example.com](https://example.com)
+e.g. `y kittens` <kbd>Enter</kbd> will
+[search YouTube for kittens](https://www.youtube.com/results?search_query=kittens)
 
-To search a site, type a space after the site&rsquo;s key followed by your
-query. e.g:
+**If your input doesn&rsquo;t match a key**, a DuckDuckGo search will be
+triggered.
 
-- `g tilde` will [search GitHub for tilde](https://github.com/search?q=tilde)
-- `y kittens` will
-  [search YouTube for kittens](https://www.youtube.com/results?search_query=kittens)
+e.g. `google` <kbd>Enter</kbd> will
+[search DuckDuckGo for google](https://duckduckgo.com/?q=google)
 
-A DuckDuckGo search will be triggered if your input doesn&rsquo;t match a key.
-e.g:
+**To go to a specific path on a site**, type the path after the site&rsquo;s
+key.
 
-- `google` will [search DuckDuckGo for google](https://duckduckgo.com/?q=google)
+e.g. `r/r/selfhosted` <kbd>Enter</kbd> will redirect you to
+[reddit.com/r/selfhosted](https://www.reddit.com/r/selfhosted)
 
-To go to a specific path on a site, type the path after the site&rsquo;s key.
-e.g:
+**To access any other site**, enter the URL directly.
 
-- `r/r/startpages` will redirect you to
-  [reddit.com/r/startpages](https://www.reddit.com/r/startpages)
-- `h/popular` will redirect you to [hypem.com/popular](http://hypem.com/popular)
+e.g. `example.com` <kbd>Enter</kbd> will redirect you to
+[example.com](https://example.com)
 
 ## Beyond
 
